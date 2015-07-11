@@ -1,0 +1,11 @@
+# Site settings
+title: sara m. b. simon
+email: smbsimon@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://smbsimon.github.io" # the base hostname & protocol for your site
+twitter_username: sarambsimon
+github_username:  smbsimon
+
+# Build settings
+markdown: kramdown
