@@ -15,7 +15,7 @@ dl, dd, ol, ul, figure {
  */
 body {
     font-family: Courier;
-    font-size: $base-font-size;
+    // font-size: 30px;
     line-height: $base-line-height;
     font-weight: 300;
     color: #443b44;
@@ -80,7 +80,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-weight: 200;
 }
 
 
@@ -193,8 +193,8 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 30px;
-        height: 30px;
+        width: 25px;
+        height: 25px;
         vertical-align: middle;
 
         path {
