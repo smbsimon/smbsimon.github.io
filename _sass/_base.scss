@@ -181,7 +181,6 @@ pre {
 }
 
 
-
 /**
  * Icons
  */
@@ -192,9 +191,19 @@ pre {
         width: 25px;
         height: 25px;
         vertical-align: middle;
+      }
+
+      path {
+          fill: #796878;
+      }
+
+      svg:hover {
 
         path {
-            fill: #696269;
+            fill: darken($grey-color-light, 20%);
         }
     }
+
+
+
 }
