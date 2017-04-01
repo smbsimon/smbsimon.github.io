@@ -12,7 +12,10 @@ therules[1] = ['B', '+AF-BFB-FA+'];
 var whereinstring = 0;
 
 function setup() {
-  createCanvas(1800, 180);
+
+  var canvas = createCanvas(310, 180);
+  canvas.parent('sketch-holder');
+
   background(255);
   stroke(0, 0, 95, 95);
 
@@ -23,6 +26,7 @@ function setup() {
     thestring = lindenmayer(thestring);
   }
 }
+
 
 function draw() {
 
@@ -67,15 +71,15 @@ function drawIt(k) {
     currentangle -= angle;
   }
 
-  var r = random(0, 100);
-  var g = random(0, 100);
-  var b = random(0, 100);
-  var a = random(0, 100);
+  var r = random(0, 40);
+  var g = random(0, 40);
+  var b = random(0, 40);
+  var a = random(0, 40);
 
   var radius = 0;
-  radius += random(0, 10);
-  radius += random(0, 10);
-  radius += random(0, 10);
+  radius += random(0, 30);
+  radius += random(0, 30);
+  radius += random(0, 30);
   radius = radius;
 
   fill(r, g, b, a);

@@ -17,7 +17,7 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: #696269;
-    padding-top: 20%;
+    padding-top: 15%;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
 }
@@ -112,4 +112,8 @@ a {
             fill: darken($grey-color-light, 20%);
         }
     }
+}
+
+#sketch-holder {
+  text-align: center;
 }
