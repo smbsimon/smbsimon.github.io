@@ -17,9 +17,15 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: #696269;
-    padding-top: 15%;
+    padding-top: 5%;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+}
+
+@media (max-width: 750px) {
+  body {
+    padding-top: 15%;
+  }
 }
 
 
@@ -30,7 +36,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 4;
 }
 
 
@@ -38,8 +44,10 @@ ul, ol, dl, figure,
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 200;
+    padding-top: 15px;
+    font-weight: 800;
 }
+
 
 
 /**
@@ -97,8 +105,8 @@ a {
 
     > svg {
         display: inline-block;
-        width: 25px;
-        height: 25px;
+        width: 20px;
+        height: 20px;
         vertical-align: middle;
       }
 
