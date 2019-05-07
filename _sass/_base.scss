@@ -13,11 +13,12 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: Baskerville;
+    font-family: Courier;
     line-height: $base-line-height;
     font-weight: 300;
     color: #696269;
     padding-top: 5%;
+    font-size: 12px;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
 }
