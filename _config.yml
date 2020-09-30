@@ -1,11 +1,22 @@
-# Site settings
-title: sara m. b. simon
-email: smbsimon@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://smbsimon.github.io" # the base hostname & protocol for your site
-twitter_username: sarambsimon
-github_username:  smbsimon
+# Setup
+title:               sara m. b. simon
+tagline:             ''
+description:         ''
+url:                 https://smbsimon.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
-# Build settings
-markdown: kramdown
+# About/contact
+author:
+  name:              Sara Simon
+  url:               https://twitter.com/sarambsimon
+  email:             smbsimon@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
