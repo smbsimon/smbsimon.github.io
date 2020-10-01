@@ -12,9 +12,11 @@
     <div class="wrap">
       <div class="masthead">
         <div class="container">
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="home">{{ site.title }}</a>
-          </h3>
+          {% if page.title != "home" %}
+            <h3 class="masthead-title">
+              <a href="{{ site.baseurl }}/" title="home">{{ site.title }}</a>
+            </h3>
+          {% endif %}
         </div>
       </div>
 
