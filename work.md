@@ -6,7 +6,7 @@ title: work
 
 - [The COVID Tracking Project](https://covidtracking.com) — I volunteer primarily with the data quality team, though I also help to support data entry, outreach, and editorial
 
-- [A LONG TIME TO WAIT](https://www.spotlightpa.org/news/2020/09/pa-coronavirus-deaths-reporting-edrs/) — for Spotlight PA, an investigation into Pennsylvania's prolonged rollout of a fully electronic death reporting system
+- [A LONG TIME TO WAIT](https://www.spotlightpa.org/news/2020/09/pa-coronavirus-deaths-reporting-edrs/) — for Spotlight PA and WHYY News, an investigation into Pennsylvania's prolonged rollout of a fully electronic death reporting system
 
 - [UPMC's claim of 'less severe' coronavirus strain in Pa. is not supported by science](https://www.spotlightpa.org/news/2020/07/coronavirus-less-severe-strain-pennsylvania-upmc-claim/) — for Spotlight PA
 

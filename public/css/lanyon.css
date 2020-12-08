@@ -220,6 +220,7 @@ a.sidebar-nav-item:focus {
   color: #505050;
   background-color: #fff;
   border-radius: .25rem;
+  border-style: dotted;
   cursor: pointer;
 }
 
@@ -234,7 +235,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:active,
 #sidebar-checkbox:focus ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: #fff;
+  color: #F5DECF;
   background-color: #555;
 }
 
@@ -311,7 +312,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #5D5564;
 }
 .page-title,
 .post-title {
@@ -484,16 +485,16 @@ a.pagination-item:hover {
   color: #90a959;
 }
 
-/* Cyan */
+/* Cyan--not, sara fix this */
 .theme-base-0c .sidebar,
 .theme-base-0c .sidebar-toggle:active,
 .theme-base-0c #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #75b5aa;
+  background-color: #7E7387;
 }
 .theme-base-0c .container a,
 .theme-base-0c .sidebar-toggle,
 .theme-base-0c .related-posts li a:hover {
-  color: #75b5aa;
+  color: #7E7387;
 }
 
 /* Blue */
