@@ -2,22 +2,13 @@
 layout: page
 title: work
 ---
-*A sampling of recent professional things:*
+*A miscellaneous sampling:*
 
 - [The COVID Tracking Project](https://covidtracking.com) — I work primarily with the data quality team, though I also help to support data entry, outreach, and editorial
 
 - [A LONG TIME TO WAIT](https://www.spotlightpa.org/news/2020/09/pa-coronavirus-deaths-reporting-edrs/) — for Spotlight PA and WHYY News, an investigation into Pennsylvania's prolonged rollout of a fully electronic death reporting system
 
 - [UPMC's claim of 'less severe' coronavirus strain in Pa. is not supported by science](https://www.spotlightpa.org/news/2020/07/coronavirus-less-severe-strain-pennsylvania-upmc-claim/) — for Spotlight PA
-
-- [Health officials failed to safeguard trust in Pa.’s coronavirus data, sowing confusion](https://www.spotlightpa.org/news/2020/06/pennsylvania-coronavirus-data-death-cases-confusion/) — for Spotlight PA
-
-- [Pa.'s death toll for Philadelphia lags behind city's count, part of state's ongoing struggle to compile timely data](https://www.spotlightpa.org/news/2020/05/pennsylvania-philadelphia-coronavirus-death-toll/) — for Spotlight PA
-
-- [Pa. coroners, health department at odds over how to handle suspected coronavirus cases, potentially affecting death count](https://www.spotlightpa.org/news/2020/04/pennsylvania-coronavirus-coroners-testing-communication-health-department/) — for Spotlight PA
-
-
-*A more miscellaneous sampling:*
 
 - [A sonnet about code](https://increment.com/programming-languages/code-poetry/) — for Increment
 
