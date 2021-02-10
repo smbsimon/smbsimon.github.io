@@ -9,4 +9,6 @@ I spent the first chapter of my career in journalism. I worked as a web develope
 
 These days, I'm spending my time with The COVID Tracking Project, helping to compile and vet state-level COVID-19 data. It's been important to me to understand where exactly these numbers are coming from, what they mean & what they don't.
 
-My pronouns are she/her. I graduated with honors in English from Wellesley College and received a certificate in full-stack software development from the Turing School.
+I graduated with honors in English from Wellesley College and received a certificate in full-stack software development from the Turing School. In fall 2021, I'll be starting a Ph.D. at Illinois Tech's Technology & Humanities department.
+
+My pronouns are she/her.

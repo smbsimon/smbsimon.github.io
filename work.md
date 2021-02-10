@@ -4,7 +4,9 @@ title: work
 ---
 *A miscellaneous sampling:*
 
-- [The COVID Tracking Project](https://covidtracking.com) — I work primarily with the data quality team, though I also help to support data entry, outreach, and editorial
+- [A journalism exit interview](https://source.opennews.org/articles/exit-interviews-sara-simon/) — for Source, a blog from OpenNews, an interview about my time in journalism & my decision to walk away
+
+- [Silent Data Mismatches Are Compromising Key COVID-19 Indicators](https://covidtracking.com/analysis-updates/silent-data-mismatches-are-compromising-key-covid-19-indicators) — for The COVID Tracking Project, a look into the country's fragile & fragmented COVID-19 data pipelines and their effect on key indicators
 
 - [A LONG TIME TO WAIT](https://www.spotlightpa.org/news/2020/09/pa-coronavirus-deaths-reporting-edrs/) — for Spotlight PA and WHYY News, an investigation into Pennsylvania's prolonged rollout of a fully electronic death reporting system
 
