@@ -6,11 +6,13 @@ title: work
 
 - [A journalism exit interview](https://source.opennews.org/articles/exit-interviews-sara-simon/) — for Source, a blog from OpenNews, an interview about my time in journalism & my decision to walk away
 
-- [Silent Data Mismatches Are Compromising Key COVID-19 Indicators](https://covidtracking.com/analysis-updates/silent-data-mismatches-are-compromising-key-covid-19-indicators) — for The COVID Tracking Project, a look into the country's fragile & fragmented COVID-19 data pipelines and their effect on key indicators
+- [Silent data mismatches are compromising key COVID-19 indicators](https://covidtracking.com/analysis-updates/silent-data-mismatches-are-compromising-key-covid-19-indicators) — for The COVID Tracking Project, a look into the country's fragile & fragmented COVID-19 data pipelines
 
 - [A LONG TIME TO WAIT](https://www.spotlightpa.org/news/2020/09/pa-coronavirus-deaths-reporting-edrs/) — for Spotlight PA and WHYY News, an investigation into Pennsylvania's prolonged rollout of a fully electronic death reporting system
 
 - [UPMC's claim of 'less severe' coronavirus strain in Pa. is not supported by science](https://www.spotlightpa.org/news/2020/07/coronavirus-less-severe-strain-pennsylvania-upmc-claim/) — for Spotlight PA
+
+- [Health officials failed to safeguard trust in Pa.'s coronavirus data, sowing confusion](https://www.spotlightpa.org/news/2020/06/pennsylvania-coronavirus-data-death-cases-confusion/) — for Spotlight PA
 
 - [A sonnet about code](https://increment.com/programming-languages/code-poetry/) — for Increment
 
