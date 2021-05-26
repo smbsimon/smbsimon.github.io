@@ -2,7 +2,7 @@
 layout: page
 title: work
 ---
-*A miscellaneous sampling:*
+A miscellaneous sampling:
 
 - [*America’s entire understanding of the pandemic was shaped by messy data*](https://www.theatlantic.com/science/archive/2021/05/pandemic-data-america-messy/618987/) — for The Atlantic, originally published at The COVID Tracking Project
 
@@ -10,7 +10,7 @@ title: work
 
 - [*A LONG TIME TO WAIT*](https://www.spotlightpa.org/news/2020/09/pa-coronavirus-deaths-reporting-edrs/) — for Spotlight PA and WHYY News, an investigation into Pennsylvania's prolonged rollout of a fully electronic death reporting system
 
-- [*UPMC’s claim of ‘less severe’ coronavirus strain in Pa. is not supported by science*](https://www.spotlightpa.org/news/2020/07/coronavirus-less-severe-strain-pennsylvania-upmc-claim/)
+- [*UPMC’s claim of ‘less severe’ coronavirus strain in Pa. is not supported by science*](https://www.spotlightpa.org/news/2020/07/coronavirus-less-severe-strain-pennsylvania-upmc-claim/) — for Spotlight PA
 
 - [A journalism exit interview](https://source.opennews.org/articles/exit-interviews-sara-simon/) — for Source, a blog from OpenNews, an interview about my time in journalism & my decision to walk away
 
