@@ -2,7 +2,7 @@
 layout: page
 title: work
 ---
-A miscellaneous sampling:
+a miscellaneous sampling:
 
 - [*America’s entire understanding of the pandemic was shaped by messy data*](https://www.theatlantic.com/science/archive/2021/05/pandemic-data-america-messy/618987/) — for The Atlantic, originally published at The COVID Tracking Project
 
