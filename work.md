@@ -12,7 +12,7 @@ a miscellaneous sampling:
 
 - [*UPMC’s claim of ‘less severe’ coronavirus strain in Pa. is not supported by science*](https://www.spotlightpa.org/news/2020/07/coronavirus-less-severe-strain-pennsylvania-upmc-claim/) — for Spotlight PA
 
-- [A journalism exit interview](https://source.opennews.org/articles/exit-interviews-sara-simon/) — for Source, a blog from OpenNews, an interview about my time in journalism & my decision to walk away
+- [A journalism exit interview](https://source.opennews.org/articles/exit-interviews-sara-simon/) — for Source, a blog from OpenNews, an interview about my time in journalism
 
 - [An essay about beauty pageant data](https://www.nytimes.com/2018/09/12/insider/miss-america-data-software.html) — for The New York Times
 
