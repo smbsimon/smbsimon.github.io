@@ -9,6 +9,6 @@ I spent the first chapter of my career in journalism. I worked as a web develope
 
 Most recently, I was on staff with The COVID Tracking Project, where I helped to compile and vet state-level COVID-19 data.
 
-I graduated with honors in English from Wellesley College and received a certificate in full-stack software development from the Turing School. In fall 2021, I'll be starting a Ph.D. in the history of technology at Illinois Tech.
+I graduated with honors in English from Wellesley College and received a certificate in full-stack software development from the Turing School. In fall 2021, I'll be starting a PhD at Illinois Tech, studying the history of technology.
 
 My pronouns are she/her.
