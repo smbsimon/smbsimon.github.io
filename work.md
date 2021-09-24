@@ -10,8 +10,6 @@ a miscellaneous sampling of journalism:
 
 - [*A LONG TIME TO WAIT*](https://www.spotlightpa.org/news/2020/09/pa-coronavirus-deaths-reporting-edrs/) — for Spotlight PA and WHYY News, an investigation into Pennsylvania's prolonged rollout of a fully electronic death reporting system
 
-- [*Students at Penn State forced to sign COVID-19 liability waiver to participate in fall semester*](https://www.spotlightpa.org/news/2020/08/penn-state-coronavirus-covid-19-students-liability-waivers-fall-semester/) — for Spotlight PA
-
 - [*UPMC’s claim of ‘less severe’ coronavirus strain in Pa. is not supported by science*](https://www.spotlightpa.org/news/2020/07/coronavirus-less-severe-strain-pennsylvania-upmc-claim/) — for Spotlight PA
 
 - [*Pa.’s death toll for Philadelphia lags behind city’s count, part of state’s ongoing struggle to compile timely data*](https://www.spotlightpa.org/news/2020/05/pennsylvania-philadelphia-coronavirus-death-toll/) — for Spotlight PA
