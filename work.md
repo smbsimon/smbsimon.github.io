@@ -2,7 +2,7 @@
 layout: page
 title: work
 ---
-a miscellaneous sampling of journalism:
+a miscellaneous sampling:
 
 - [*America’s entire understanding of the pandemic was shaped by messy data*](https://www.theatlantic.com/science/archive/2021/05/pandemic-data-america-messy/618987/) — for The Atlantic, originally published at The COVID Tracking Project
 
@@ -20,7 +20,7 @@ a miscellaneous sampling of journalism:
 
 - [*Gunshots: Gun Deaths In Vermont, 2011-2016*](https://www.vpr.org/vpr-news/2017-08-07/gunshots-project-data-gun-deaths-in-vermont-2011-2016) — for Vermont Public Radio (data analysis)
 
-a miscellaneous sampling of other things:
+and also some other things:
 
 - [A journalism exit interview](https://source.opennews.org/articles/exit-interviews-sara-simon/) — for Source, a blog from OpenNews, an interview about my time in journalism
 
