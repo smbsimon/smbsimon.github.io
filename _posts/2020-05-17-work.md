@@ -25,6 +25,7 @@ title: work
 - [Gunshots: Gun deaths in Vermont, 2011-2016](https://www.vpr.org/vpr-news/2017-08-07/gunshots-project-data-gun-deaths-in-vermont-2011-2016) — for Vermont Public Radio (data analysis)
 
 
+
 **interviews, reflections, and other miscellaneous pieces of writing:**
 
 - [A journalism exit interview](https://source.opennews.org/articles/exit-interviews-sara-simon/) — for Source, a blog from OpenNews, an interview about my time in journalism
@@ -40,19 +41,20 @@ title: work
 - [An essay about learning languages](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52) — adapted from a talk at the 2015 Burlington Ruby Conference and later reworked for RubyConf 2016
 
 
+
 **selected community involvement:**
 
 - 2021 The Socially Responsible Modeling, Computation, and Design initiative at Illinois Tech (fall 2021 fellow)
 
-- 2020 ScienceWriters (panelist: "Diving Into the Data: How Data Reporting Can Shape Science Stories")
+- 2020 ScienceWriters (panelist: "Diving into the data: How data reporting can shape science stories")
 
-- 2020 National Institute for Computer-Assisted Reporting (panelist: “Beyond the Horserace of Election Results Graphics”)
+- 2020 National Institute for Computer-Assisted Reporting (panelist: “Beyond the horserace of election results graphics”)
 
 - 2019 Denison University (invited speaker for math, computer science & narrative journalism students)
 
 - 2018 National Institute for Computer-Assisted Reporting (intro to python instructor)
 
-- 2018 FITC Technology & Creativity (invited speaker: "The Algorithm, A Narrative")
+- 2018 FITC Technology & Creativity (invited speaker: "The algorithm, a narrative")
 
 - 2017 Wellesley College (invited speaker for humanities students interested in digital careers)
 
@@ -60,9 +62,9 @@ title: work
 
 - 2017 PRX & Radio Public Audio hackathon (invited participant)
 
-- 2016 RubyConf (invited speaker: "Learning Fluency")
+- 2016 RubyConf (invited speaker: "Learning fluency")
 
-- 2016 Brighton Ruby (invited speaker: "The Function of Bias")
+- 2016 Brighton Ruby (invited speaker: "The function of bias")
 
 - 2016 Tech Jam Vermont (Burlington tech community “newcomer" award recipient)
 
