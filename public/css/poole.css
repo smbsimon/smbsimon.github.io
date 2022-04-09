@@ -77,6 +77,7 @@ a strong {
 a:hover,
 a:focus {
   text-decoration: underline;
+  color: lightseagreen;
 }
 
 /* Headings */
@@ -110,7 +111,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: #7E7387;
 }
 
 
@@ -339,7 +340,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #7E7387;
 }
 .page-title,
 .post-title {
