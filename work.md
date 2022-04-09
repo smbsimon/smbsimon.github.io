@@ -2,7 +2,7 @@
 layout: page
 title: work
 ---
-**a sampling:**
+**<u>a sampling:</u>**
 
 - COVID-19 data in historical perspective: Lessons from Chicago’s 1995 heat wave — for the Socially Responsible Modeling, Computation, and Design initiative at Illinois Tech (publishing Spring 2022)
 
@@ -26,7 +26,7 @@ title: work
 
 
 
-**interviews, reflections, and other miscellaneous pieces of writing:**
+**<u>interviews, reflections, and other miscellaneous pieces of writing:</u>**
 
 - [A journalism exit interview](https://source.opennews.org/articles/exit-interviews-sara-simon/) — for Source, a blog from OpenNews, an interview about my time in journalism
 
@@ -42,30 +42,30 @@ title: work
 
 
 
-**selected community involvement:**
+**<u>selected community involvement:</u>**
 
-- 2021 The Socially Responsible Modeling, Computation, and Design initiative at Illinois Tech (fall 2021 fellow)
+- 2021: The Socially Responsible Modeling, Computation, and Design initiative at Illinois Tech (fall 2021 fellow)
 
-- 2020 ScienceWriters (panelist: "Diving into the data: How data reporting can shape science stories")
+- 2020: ScienceWriters (panelist: "Diving into the data: How data reporting can shape science stories")
 
-- 2020 National Institute for Computer-Assisted Reporting (panelist: “Beyond the horserace of election results graphics”)
+- 2020: National Institute for Computer-Assisted Reporting (panelist: “Beyond the horserace of election results graphics”)
 
-- 2019 Denison University (invited speaker for math, computer science & narrative journalism students)
+- 2019: Denison University (invited speaker for math, computer science & narrative journalism students)
 
-- 2018 National Institute for Computer-Assisted Reporting (intro to python instructor)
+- 2018: National Institute for Computer-Assisted Reporting (intro to python instructor)
 
-- 2018 FITC Technology & Creativity (invited speaker: "The algorithm, a narrative")
+- 2018: FITC Technology & Creativity (invited speaker: "The algorithm, a narrative")
 
-- 2017 Wellesley College (invited speaker for humanities students interested in digital careers)
+- 2017: Wellesley College (invited speaker for humanities students interested in digital careers)
 
-- 2017 SRCCON (invited session leader on newsroom technology for breaking news) 
+- 2017: SRCCON (invited session leader on newsroom technology for breaking news) 
 
-- 2017 PRX & Radio Public Audio hackathon (invited participant)
+- 2017: PRX & Radio Public Audio hackathon (invited participant)
 
-- 2016 RubyConf (invited speaker: "Learning fluency")
+- 2016: RubyConf (invited speaker: "Learning fluency")
 
-- 2016 Brighton Ruby (invited speaker: "The function of bias")
+- 2016: Brighton Ruby (invited speaker: "The function of bias")
 
-- 2016 Tech Jam Vermont (Burlington tech community “newcomer" award recipient)
+- 2016: Tech Jam Vermont (Burlington tech community “newcomer" award recipient)
 
-- 2016 Knight-Mozilla OpenNews Code Convening (invited participant)
+- 2016: Knight-Mozilla OpenNews Code Convening (invited participant)

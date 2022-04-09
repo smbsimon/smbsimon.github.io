@@ -77,7 +77,6 @@ a strong {
 a:hover,
 a:focus {
   text-decoration: underline;
-  color: lightseagreen;
 }
 
 /* Headings */
