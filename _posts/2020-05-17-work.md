@@ -16,9 +16,9 @@ title: work
 
 - [Health officials failed to safeguard trust in Pa.’s coronavirus data, sowing confusion](https://www.spotlightpa.org/news/2020/06/pennsylvania-coronavirus-data-death-cases-confusion/) - for Spotlight PA
 
-- [Pa.’s death toll for Philadelphia lags behind city’s count, part of state’s ongoing struggle to compile timely data](https://www.spotlightpa.org/news/2020/05/pennsylvania-philadelphia-coronavirus-death-toll/) — for Spotlight PA
-
 - [Protections for vulnerable Pa. seniors lag, reforms to guardianship system ‘stuck’](https://www.spotlightpa.org/news/2020/03/pennsylvania-supreme-court-guardianship-seniors/) — for Spotlight PA
+
+- [What It Takes to Get an Abortion in the Most Restrictive U.S. State](https://www.nytimes.com/interactive/2018/07/20/us/mississippi-abortion-restrictions.html) — for The New York Times 
 
 - [They shared drugs. Someone died. Does that make them killers?](https://www.nytimes.com/2018/05/25/us/drug-overdose-prosecution-crime.html) — for The New York Times (data analysis)
 
