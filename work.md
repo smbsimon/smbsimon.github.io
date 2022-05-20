@@ -18,7 +18,7 @@ title: work
 
 - [Protections for vulnerable Pa. seniors lag, reforms to guardianship system ‘stuck’](https://www.spotlightpa.org/news/2020/03/pennsylvania-supreme-court-guardianship-seniors/) — for Spotlight PA
 
-- [What It Takes to Get an Abortion in the Most Restrictive U.S. State](https://www.nytimes.com/interactive/2018/07/20/us/mississippi-abortion-restrictions.html) — for The New York Times 
+- [What it takes to get an abortion in the most restrictive U.S. state](https://www.nytimes.com/interactive/2018/07/20/us/mississippi-abortion-restrictions.html) — for The New York Times 
 
 - [They shared drugs. Someone died. Does that make them killers?](https://www.nytimes.com/2018/05/25/us/drug-overdose-prosecution-crime.html) — for The New York Times (data analysis)
 
