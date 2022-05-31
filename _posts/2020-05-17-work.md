@@ -4,7 +4,7 @@ title: work
 ---
 **<u>a sampling:</u>**
 
-- COVID-19 data in historical perspective: Lessons from Chicago’s 1995 heat wave — for the Socially Responsible Modeling, Computation, and Design initiative at Illinois Tech (publishing Spring 2022)
+- COVID-19 data in historical perspective: Lessons from Chicago’s 1995 heat wave — for the Socially Responsible Modeling, Computation, and Design initiative at Illinois Tech (https://soremo.library.iit.edu/index.php/Soremo/article/view/212)
 
 - [America’s entire understanding of the pandemic was shaped by messy data](https://www.theatlantic.com/science/archive/2021/05/pandemic-data-america-messy/618987/) — for The Atlantic, originally published at The COVID Tracking Project
 
@@ -22,7 +22,7 @@ title: work
 
 - [They shared drugs. Someone died. Does that make them killers?](https://www.nytimes.com/2018/05/25/us/drug-overdose-prosecution-crime.html) — for The New York Times (data analysis)
 
-- [Gunshots: Gun deaths in Vermont, 2011-2016](https://www.vpr.org/vpr-news/2017-08-07/gunshots-project-data-gun-deaths-in-vermont-2011-2016) — for Vermont Public Radio (data analysis)
+- [Gunshots: Gun deaths in Vermont, 2011-2016](https://projects.vpr.org/gunshots-vermont-gun-data/) — for Vermont Public Radio (data analysis)
 
 
 
