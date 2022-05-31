@@ -2,7 +2,7 @@
 layout: page
 title: work
 ---
-**<u>a sampling:</u>**
+**a sampling:**
 
 - [COVID-19 data in historical perspective: Lessons from Chicago’s 1995 heat wave](https://soremo.library.iit.edu/index.php/Soremo/article/view/212) — for the Socially Responsible Modeling, Computation, and Design initiative at Illinois Tech 
 
@@ -26,7 +26,7 @@ title: work
 
 
 
-**<u>interviews, reflections, and other miscellaneous pieces of writing:</u>**
+**interviews, reflections, and other miscellaneous pieces of writing:**
 
 - [A journalism exit interview](https://source.opennews.org/articles/exit-interviews-sara-simon/) — for Source, a blog from OpenNews, an interview about my time in journalism
 
@@ -42,7 +42,7 @@ title: work
 
 
 
-**<u>selected community involvement:</u>**
+**selected community involvement:**
 
 - 2021: The Socially Responsible Modeling, Computation, and Design initiative at Illinois Tech (fall 2021 fellow)
 
