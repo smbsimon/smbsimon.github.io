@@ -4,7 +4,7 @@ title: work
 ---
 **<u>a sampling:</u>**
 
-- COVID-19 data in historical perspective: Lessons from Chicago’s 1995 heat wave — for the Socially Responsible Modeling, Computation, and Design initiative at Illinois Tech (https://soremo.library.iit.edu/index.php/Soremo/article/view/212)
+- [COVID-19 data in historical perspective: Lessons from Chicago’s 1995 heat wave](https://soremo.library.iit.edu/index.php/Soremo/article/view/212) — for the Socially Responsible Modeling, Computation, and Design initiative at Illinois Tech 
 
 - [America’s entire understanding of the pandemic was shaped by messy data](https://www.theatlantic.com/science/archive/2021/05/pandemic-data-america-messy/618987/) — for The Atlantic, originally published at The COVID Tracking Project
 
