@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -78,7 +78,7 @@ a strong {
 a:hover,
 a:focus {
   text-decoration: underline;
-  font-style: italic;
+  text-decoration-style: wavy;
 }
 
 /* Headings */
