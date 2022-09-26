@@ -2,9 +2,7 @@
 layout: page
 title: work
 ---
-**an extremely random sampling of articles, interviews, reflections, and other miscellaneous pieces of writing:**
-
-- [COVID-19 data in historical perspective: Lessons from Chicago’s 1995 heat wave](https://soremo.library.iit.edu/index.php/Soremo/article/view/212) - The Socially Responsible Modeling, Computation, and Design initiative at Illinois Tech
+**an extremely random sampling of articles, interviews, and other miscellaneous pieces of writing:**
 
 - [America’s entire understanding of the pandemic was shaped by messy data](https://www.theatlantic.com/science/archive/2021/05/pandemic-data-america-messy/618987/) - The Atlantic, originally published at The COVID Tracking Project
 
