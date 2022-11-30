@@ -2,7 +2,7 @@
 layout: page
 title: work
 ---
-an extremely random sampling of articles, interviews, and other miscellaneous pieces of writing:
+a fairly random selection of articles, interviews, and other pieces of writing:
 
 - [America’s entire understanding of the pandemic was shaped by messy data](https://www.theatlantic.com/science/archive/2021/05/pandemic-data-america-messy/618987/) - The Atlantic, originally published at The COVID Tracking Project
 
