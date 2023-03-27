@@ -20,7 +20,7 @@ a extremely random selection of articles, interviews, and other pieces of writin
 
 - [Exit interviews: Sara Simon](https://source.opennews.org/articles/exit-interviews-sara-simon/) 
 
-- [👑 How a Times software engineer ended Up covering Miss America 👑](https://www.nytimes.com/2018/09/12/insider/miss-america-data-software.html) 
+- [👑 How a Times software engineer ended up covering Miss America 👑](https://www.nytimes.com/2018/09/12/insider/miss-america-data-software.html) 
 
 - [Set up your Mac like an interactive news developer](https://open.nytimes.com/set-up-your-mac-like-an-interactive-news-developer-bb8d2c4097e5) 
 
