@@ -18,14 +18,14 @@ a extremely random selection of articles, interviews, and other pieces of writin
 
 - [What it takes to get an abortion in the most restrictive U.S. state](https://www.nytimes.com/interactive/2018/07/20/us/mississippi-abortion-restrictions.html) 
 
-- [A journalism exit interview](https://source.opennews.org/articles/exit-interviews-sara-simon/) 
+- [Exit interviews: Sara Simon](https://source.opennews.org/articles/exit-interviews-sara-simon/) 
 
-- [👑 An essay about beauty pageant data 👑](https://www.nytimes.com/2018/09/12/insider/miss-america-data-software.html) 
+- [👑 How a Times software engineer ended Up covering Miss America 👑](https://www.nytimes.com/2018/09/12/insider/miss-america-data-software.html) 
 
-- [A tutorial on how I set up my machine](https://open.nytimes.com/set-up-your-mac-like-an-interactive-news-developer-bb8d2c4097e5) 
+- [Set up your Mac like an interactive news developer](https://open.nytimes.com/set-up-your-mac-like-an-interactive-news-developer-bb8d2c4097e5) 
 
-- [An interview about newsroom automation](https://www.poynter.org/tech-tools/2016/you-can-steal-sara-simons-sewage-bot-and-everything-else-she-makes/) 
+- [You can steal Sara Simon’s sewage bot... and everything else she makes](https://www.poynter.org/tech-tools/2016/you-can-steal-sara-simons-sewage-bot-and-everything-else-she-makes/) 
 
-- [A sonnet about code](https://increment.com/programming-languages/code-poetry/) 
+- [With a sonnet, my code became sound](https://increment.com/programming-languages/code-poetry/) 
 
-- [An essay about learning languages](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52) 
+- [Learning fluency](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52) 
