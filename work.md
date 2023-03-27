@@ -2,7 +2,7 @@
 layout: page
 title: work
 ---
-a extremely random selection of articles, interviews, and other pieces of writing:
+a fairly random selection of articles, interviews, and other pieces of writing:
 
 - [Building digital dream houses: An interview with Jesyca Durchin](https://romchip.org/index.php/romchip-journal/article/view/159)
 
