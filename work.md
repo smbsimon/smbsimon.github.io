@@ -4,7 +4,7 @@ title: work
 ---
 a fairly random selection of articles, interviews, and other pieces of writing:
 
-- [Building digital dream houses: An interview with Jesyca Durchin](https://romchip.org/index.php/romchip-journal/article/view/159)
+- A labor history of health records: On medical scribes and the ethics of automation (forthcoming)
 
 - [COVID-19 data in historical perspective: Lessons from Chicago’s 1995 heat wave](https://soremo.library.iit.edu/index.php/Soremo/article/view/212)
 
@@ -18,9 +18,11 @@ a fairly random selection of articles, interviews, and other pieces of writing:
 
 - [What it takes to get an abortion in the most restrictive U.S. state](https://www.nytimes.com/interactive/2018/07/20/us/mississippi-abortion-restrictions.html) 
 
-- [Exit interviews: Sara Simon](https://source.opennews.org/articles/exit-interviews-sara-simon/) 
+- [Building digital dream houses: An interview with Jesyca Durchin](https://romchip.org/index.php/romchip-journal/article/view/159)
 
 - [👑 How a Times software engineer ended up covering Miss America 👑](https://www.nytimes.com/2018/09/12/insider/miss-america-data-software.html) 
+
+- [Exit interviews: Sara Simon](https://source.opennews.org/articles/exit-interviews-sara-simon/) 
 
 - [Set up your Mac like an interactive news developer](https://open.nytimes.com/set-up-your-mac-like-an-interactive-news-developer-bb8d2c4097e5) 
 
