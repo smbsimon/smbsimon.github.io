@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-I'm a second-year PhD student in the humanities department at Illinois Tech, where my research interests span the fields of critical algorithm studies, critical data studies, and the history of technology. I'm advised by Dr. Mar Hicks and currently work as their research assistant on topics related to the history of technology, gender, and labor. 
+I'm a rising third-year PhD student in the humanities department at Illinois Tech, where my research interests span the fields of critical algorithm studies, critical data studies, and the history of technology. I'm advised by Dr. Mar Hicks and currently work as their research assistant on topics related to the history of technology, gender, and labor. 
 
 At Illinois Tech, I've also worked as a research assistant for Dr. Carly Kocurek on an NSF-funded project about [the history of the Games for Girls movement](https://www.iit.edu/news/looking-closer-games-girls-movement). Additionally, in fall 2021, I was a paid fellow with the university's Socially Responsible Modeling, Computation, and Design initiative.
 
