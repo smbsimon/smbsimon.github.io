@@ -8,7 +8,7 @@ graduate school research:
 
 - At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented [a paper on medical scribes](https://journals.library.iit.edu/index.php/CEPE2023/article/view/265) and their role in salvaging the utility of electronic health records. 
 
-- I've also written on [COVID-19 data in historical perspective](https://soremo.library.iit.edu/index.php/Soremo/article/view/212), using Chicago's 1995 heat wave as a case study. 
+- For Illinois Tech's Socially Responsible Modeling, Computation, and Design initiative, I wrote about [COVID-19 data in historical perspective](https://soremo.library.iit.edu/index.php/Soremo/article/view/212), using Chicago's 1995 heat wave as a case study. 
 
 
 a random sampling of pre grad school journalism & public writing:
