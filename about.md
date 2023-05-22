@@ -5,7 +5,7 @@ title: about
 
 I'm a rising third-year PhD student in the humanities department at Illinois Tech, where my research interests span the fields of critical algorithm studies, critical data studies, and the history of technology. I'm advised by Dr. Mar Hicks and currently work as their research assistant on topics related to the history of technology, labor, gender, and sexuality. 
 
-At Illinois Tech, I've also worked as a research assistant for Dr. Carly Kocurek on an NSF-funded project about [the history of the Games for Girls movement](https://www.iit.edu/news/looking-closer-games-girls-movement). Additionally, in fall 2021, I was a paid fellow with the university's Socially Responsible Modeling, Computation, and Design initiative.
+At Illinois Tech, I've also worked as a research assistant for Dr. Carly Kocurek on an NSF-funded project about [the history of the Games for Girls movement](https://www.iit.edu/news/looking-closer-games-girls-movement). Additionally, I was a fellow with the university's Socially Responsible Modeling, Computation, and Design initiative.
 
 Prior to graduate school, I worked as a communications associate at Software for Good, web developer at Vermont Public Radio, software engineer at The New York Times, and investigative data reporter at Spotlight PA. In September 2020, I decided to leave traditional journalism to join the data quality team at The COVID Tracking Project, where I worked to compile, vet, and document state-level COVID-19 data.
 

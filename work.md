@@ -21,4 +21,4 @@ a random sampling of pre grad school journalism & public writing:
 
 - I wrote about [my decision to leave journalism](https://source.opennews.org/articles/exit-interviews-sara-simon/) for Source, a blog from OpenNews. Poynter also once interviewed me about [my beloved little poop bot](https://www.poynter.org/tech-tools/2016/you-can-steal-sara-simons-sewage-bot-and-everything-else-she-makes/), which I built for Vermont Public Radio. 
 
-- I was once paid real U.S. dollars to write [a poem about code](https://increment.com/programming-languages/code-poetry/). I also used to speak at tech conferences regularly; a 2015 talk on my experiences [learning Ruby on Rails vs. Mandarin Chinese](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52) seems to be a fan favorite.
+- For Increment, I wrote [a poem about code](https://increment.com/programming-languages/code-poetry/). I also used to speak at tech conferences regularly. A 2015 talk on my experiences [learning Ruby on Rails vs. Mandarin Chinese](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52) is a favorite.
