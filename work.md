@@ -4,7 +4,7 @@ title: work
 ---
 graduate school research:
 
-- Currently, I'm working on a paper that historicizes the labor demands behind Electronic Death Registration Systems for the [Epidemy Lab's](https://www.epidemy.sps.ed.ac.uk/)  "Data & Disease in Historical Perspective" workshop.
+- Currently, I'm working on a paper that historicizes the labor demands behind Electronic Death Registration Systems for the [Epidemy Lab's](https://www.epidemy.sps.ed.ac.uk/) "Data & Disease in Historical Perspective" workshop.
 
 - At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented [a paper on medical scribes](https://journals.library.iit.edu/index.php/CEPE2023/article/view/265) and their role in salvaging the utility of electronic health records. 
 
