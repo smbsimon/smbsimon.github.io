@@ -4,16 +4,18 @@ title: work
 ---
 graduate school research:
 
-- Currently, I'm working on a paper that historicizes the labor demands behind Electronic Death Registration Systems for the [Epidemy Lab's](https://www.epidemy.sps.ed.ac.uk/) "Data & Disease in Historical Perspective" workshop.
+- Currently, I'm working on a paper that historicizes the introduction of Electronic Death Registration Systems, as part of the [Epidemy Lab's](https://www.epidemy.sps.ed.ac.uk/) "Data & Disease in Historical Perspective" workshop.
 
-- At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented [a paper on medical scribes](https://journals.library.iit.edu/index.php/CEPE2023/article/view/265) and their role in salvaging the utility of electronic health records. 
+- I'm also currently working on a paper about the women who operated the Voder, the first electronic speech synthesizer, presented by AT&T/Bell Labs at the 1939 New York World's Fair. I'll be sharing this research in September 2023 at [SIGCIS](https://meetings.sigcis.org/).
+
+- At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented [a paper on medical scribes](https://journals.library.iit.edu/index.php/CEPE2023/article/view/265) and their role in salvaging the utility of electronic health records.
 
 - For an independent study I completed on Data & Power, my final project was to design my own [Data & Power syllabus](Data-Power-Syllabus.pdf).
 
-- For Illinois Tech's Socially Responsible Modeling, Computation, and Design initiative, I wrote about [COVID-19 data in historical perspective](https://soremo.library.iit.edu/index.php/Soremo/article/view/212), using Chicago's 1995 heat wave as a case study. 
+- For Illinois Tech's Socially Responsible Modeling, Computation, and Design initiative, I wrote about [COVID-19 data in historical perspective](https://soremo.library.iit.edu/index.php/Soremo/article/view/212), using Chicago's 1995 heat wave as a case study.
 
 
-a random sampling of pre grad school journalism & public writing:
+a random sampling of pre-grad school journalism & public writing:
 
 - For The COVID Tracking Project at the Atlantic, I published multiple pieces on the [challenges](https://www.theatlantic.com/science/archive/2021/05/pandemic-data-america-messy/618987/) and [quirks](https://covidtracking.com/analysis-updates/silent-data-mismatches-are-compromising-key-covid-19-indicators) of [COVID-19 data](https://covidtracking.com/analysis-updates/three-covid-19-data-problems). 
 
