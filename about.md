@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-I'm a rising third-year PhD student in the humanities department at Illinois Tech, where I'm interested in the historical intersections of technology, data, labor, and gender.
+I'm a third-year PhD student in the humanities department at Illinois Tech, where I'm interested in the historical intersections of technology, data, labor, and gender.
 
 At Illinois Tech, I've worked as a research assistant for Dr. Mar Hicks on topics related to the history of technology, labor, gender, and sexuality. I've also worked as a research assistant for Dr. Carly Kocurek on an NSF-funded project about [the history of the Games for Girls movement](https://www.iit.edu/news/looking-closer-games-girls-movement). Additionally, in fall 2021, I was a fellow with the university's Socially Responsible Modeling, Computation, and Design initiative.
 
