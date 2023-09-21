@@ -6,7 +6,7 @@ graduate school research:
 
 - Currently, I'm working on a paper that historicizes the introduction of Electronic Death Registration Systems, as part of the [Epidemy Lab's](https://www.epidemy.sps.ed.ac.uk/) "Data & Disease in Historical Perspective" workshop.
 
-- I'm also currently working on a paper about the women who operated the Voder, the first electronic speech synthesizer, presented by AT&T/Bell Labs at the 1939 New York World's Fair. I'll be sharing this research in September 2023 at [SIGCIS](https://meetings.sigcis.org/).
+- I'm also currently working on a paper about the women who operated the Voder, the first electrical speech synthesizer, presented by AT&T/Bell Labs at the 1939 New York World's Fair. I'll be sharing this research in September 2023 at [SIGCIS](https://meetings.sigcis.org/).
 
 - At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented a paper on medical scribes and their role in salvaging the utility of electronic health records. [The conference preceedings are published here.](https://journals.library.iit.edu/index.php/CEPE2023/article/view/265)
 
