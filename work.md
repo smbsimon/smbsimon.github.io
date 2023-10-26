@@ -8,7 +8,7 @@ graduate school research:
 
 - I'm also currently working on a paper about the women who operated the Voder, the first electrical speech synthesis machine, presented by AT&T/Bell Labs at the 1939 New York World's Fair. I shared part of this research in September 2023 at [SIGCIS](https://meetings.sigcis.org/).
 
-- At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented a paper on medical scribes and their role in salvaging the utility of electronic health records. [The conference preceedings are published here.](https://journals.library.iit.edu/index.php/CEPE2023/article/view/265) I also presented this research in October 2023 at the [Leibniz AI Lab's Trustworthy AI Lab.](https://leibniz-ai-lab.de/trustworthy-ai-lab/)
+- At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented a paper on medical scribes and their role in salvaging the utility of electronic health records. [The conference preceedings are published here.](https://journals.library.iit.edu/index.php/CEPE2023/article/view/265) I also presented this research in October 2023 at the [Leibniz AILab's Trustworthy AI Lab.](https://leibniz-ai-lab.de/trustworthy-ai-lab/)
 
 - For an independent study I completed on Data & Power, my final project was to design my own [Data & Power syllabus](Data-Power-Syllabus.pdf).
 
