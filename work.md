@@ -4,7 +4,7 @@ title: work
 ---
 graduate school research:
 
-- Currently, I'm working on a paper that historicizes the introduction of Electronic Death Registration Systems, as part of a workshop organized by the Epidemy Lab at the Univerity of Edinburgh on "Data and Disease in Historical Perspective."
+- Currently, I'm working on a paper that historicizes the introduction of Electronic Death Registration Systems, as part of a workshop organized by the Epidemy Lab at the University of Edinburgh on "Data and Disease in Historical Perspective."
 
 - I'm also currently working on a paper about the women who operated the Voder, the first electrical speech synthesis machine, presented by AT&T/Bell Labs at the 1939 New York World's Fair. I shared part of this research in September 2023 at SIGCIS.
 
