@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-I'm a graduate student in the humanities department at the Illinois Institute of Technology, where my research explores historical intersections between technology, data, public health, labor, and gender. 
+I'm currently a master's student in the humanities department at Illinois Tech. In fall 2024, I'll be starting a Ph.D. in history at Northwestern, where I'll also be part of the graduate Science Studies cluster. My research is in the history of technology, and I'm particularly interested in themes of data labor and hidden infrastructure. 
 
 Prior to graduate school, I worked as an investigative data reporter at Spotlight PA, a software engineer at The New York Times, and a web developer at Vermont Public Radio. In 2020, I decided to leave traditional journalism to join data quality efforts at The COVID Tracking Project, where I worked to compile, vet, and describe state-level COVID-19 data.
 
