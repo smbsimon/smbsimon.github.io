@@ -6,9 +6,9 @@ graduate school research:
 
 - Currently, I'm working on a paper that historicizes the introduction of Electronic Death Registration Systems for a workshop on historical data and disease organized by the Epidemy Lab at the University of Edinburgh. I'll be presenting part of this research at ICOHTEC-SHOT in July 2024.
 
-- My master's thesis is about the women who operated the Voder, the electrical speech synthesis machine presented by AT&T/Bell Labs at the 1939 New York World's Fair. I shared part of this research in September 2023 at SIGCIS, then presented an updated version in March 2024 at the Midwest Junto for the History of Science.
-
 - At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented a paper on medical scribes and their role in salvaging the utility of electronic health records. I also presented this research in October 2023 at the Leibniz AILab's Trustworthy AI Lab.
+
+- My master's thesis is about the women who operated the Voder, the electrical speech synthesis machine presented by AT&T/Bell Labs at the 1939 New York World's Fair. I shared part of this research in September 2023 at SIGCIS, then presented an updated version in March 2024 at the Midwest Junto for the History of Science.
 
 
 a random sampling of pre-grad school journalism & public writing:
@@ -21,4 +21,4 @@ a random sampling of pre-grad school journalism & public writing:
 
 - I wrote about [my decision to leave journalism](https://source.opennews.org/articles/exit-interviews-sara-simon/) for Source, a blog from OpenNews. Poynter also once interviewed me about [my beloved little poop bot](https://www.poynter.org/tech-tools/2016/you-can-steal-sara-simons-sewage-bot-and-everything-else-she-makes/), which I built for Vermont Public Radio. 
 
-- For Increment, I wrote [a poem about code](https://increment.com/programming-languages/code-poetry/). I also used to speak at tech conferences regularly. A 2015 talk on my experiences [learning Ruby on Rails vs. Mandarin Chinese](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52) is a favorite.
+- For Increment, I wrote [a poem about code](https://increment.com/programming-languages/code-poetry/). 
