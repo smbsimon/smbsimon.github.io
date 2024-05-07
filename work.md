@@ -8,7 +8,7 @@ graduate school research:
 
 - At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented a paper on medical scribes and their role in salvaging the utility of electronic health records. I also presented this research in October 2023 at the Leibniz AILab's Trustworthy AI Lab.
 
-- My master's thesis is about the women who operated the Voder, the electrical speech synthesis machine presented by AT&T/Bell Labs at the 1939 New York World's Fair. I shared part of this research in September 2023 at SIGCIS, then presented an updated version in March 2024 at the Midwest Junto for the History of Science.
+- I wrote my master's thesis on the women who operated the Voder, the electrical speech synthesis machine presented by AT&T/Bell Labs at the 1939 New York World's Fair. I shared part of my research in September 2023 at SIGCIS, then presented an updated version in March 2024 at the Midwest Junto for the History of Science.
 
 
 a random sampling of pre-grad school journalism & public writing:
