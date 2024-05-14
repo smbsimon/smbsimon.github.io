@@ -13,7 +13,7 @@ graduate school research:
 
 a random sampling of pre-grad school journalism & public writing:
 
-- For The COVID Tracking Project at the Atlantic, I published multiple pieces on the [challenges](https://www.theatlantic.com/science/archive/2021/05/pandemic-data-america-messy/618987/) and [quirks](https://covidtracking.com/analysis-updates/silent-data-mismatches-are-compromising-key-covid-19-indicators) of [COVID-19 data](https://covidtracking.com/analysis-updates/three-covid-19-data-problems). 
+- For The COVID Tracking Project, I published multiple pieces on the [challenges](https://www.theatlantic.com/science/archive/2021/05/pandemic-data-america-messy/618987/) and [quirks](https://covidtracking.com/analysis-updates/silent-data-mismatches-are-compromising-key-covid-19-indicators) of [COVID-19 data](https://covidtracking.com/analysis-updates/three-covid-19-data-problems). 
 
 - For Spotlight PA, a few pieces stand out: I wrote about [a debate coroners had](https://www.spotlightpa.org/news/2020/04/pennsylvania-coronavirus-coroners-testing-communication-health-department/) with state health officials, a major health system that made [dishonest claims](https://www.spotlightpa.org/news/2020/07/coronavirus-less-severe-strain-pennsylvania-upmc-claim/) about the severity of the virus, and a [major university](https://www.spotlightpa.org/news/2020/08/penn-state-coronavirus-covid-19-students-liability-waivers-fall-semester/) that forced students to assume all risk of COVID-19. (Prior to the pandemic, I also reported on Pennsylvania's new system of [automated guardianship oversight](https://www.spotlightpa.org/news/2020/03/pennsylvania-supreme-court-guardianship-seniors/).)
 
