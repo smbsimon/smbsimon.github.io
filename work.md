@@ -4,9 +4,9 @@ title: work
 ---
 graduate school research:
 
-- Currently, I'm working on a paper that historicizes the labor demands behind Electronic Death Registration Systems for a workshop on historical data and disease organized by the Epidemy Lab at the University of Edinburgh. I'll be presenting part of this research at ICOHTEC-SHOT in July 2024.
+- Currently, I'm working on a paper that historicizes the early labor demands of Electronic Death Registration for a workshop on historical data and disease organized by the Epidemy Lab at the University of Edinburgh. I'll be presenting part of this research at ICOHTEC-SHOT in July 2024.
 
-- For my master's thesis, I wrote about the young women who operated the Voder, the electrical speech synthesis machine presented by AT&T/Bell Labs at the 1939 New York World's Fair. The thesis argues that fair organizers, along with the AT&T and Bell Labs executives who worked beside them, used the Voder operators to propel new hegemonic notions of technology, labor, and gender, debuting a vision of a technological utopia that relied heavily and conspicuously on the infrastructural labor of women. I shared part of my research in September 2023 at SIGCIS, then presented an updated version in March 2024 at the Midwest Junto for the History of Science.
+- For my master's thesis, I wrote about the young women who operated the Voder, the electrical speech synthesis machine presented by AT&T/Bell Labs at the 1939 New York World's Fair. The thesis argues that fair organizers and AT&T executives used the Voder operators to propel hegemonic notions of technology, labor and gender, debuting a vision of a technological utopia that relied heavily and conspicuously on the infrastructural labor of women. I shared part of my research in September 2023 at SIGCIS, then presented an updated version in March 2024 at the Midwest Junto for the History of Science.
 
 - At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented a paper on medical scribes and their role in salvaging the utility of electronic health records. I also presented this research in October 2023 at the Leibniz AILab's Trustworthy AI Lab.
 
