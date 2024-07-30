@@ -4,7 +4,7 @@ title: work
 ---
 graduate school research:
 
-- Currently, I'm working on a paper that historicizes the labor debates surrounding Electronic Death Registration for a workshop on historical data and disease organized by the Epidemy Lab at the University of Edinburgh. I'll be presenting part of this research at ICOHTEC-SHOT in July 2024.
+- Currently, I'm working on a paper that historicizes the labor debates surrounding Electronic Death Registration for a workshop on historical data and disease organized by the Epidemy Lab at the University of Edinburgh. I presented part of this research at ICOHTEC-SHOT in July 2024.
 
 - At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented a paper on medical scribes and their role in salvaging the utility of electronic health records. I also presented this research in October 2023 at the Leibniz AILab's Trustworthy AI Lab.
 
