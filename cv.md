@@ -3,4 +3,4 @@ layout: page
 title: cv
 ---
 
-[My CV is linked here.](Sara-Simon-CV.pdf) (Last updated: January 2024)
+I'm reworking my CV! Will post it back up here soon. 
