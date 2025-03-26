@@ -4,7 +4,7 @@ title: work
 ---
 graduate school research:
 
-- My new project explores efforts to collect vital statistics for the 1890 U.S. Census.
+- My new project explores efforts to collect vital statistics for the 1890 U.S. Census. I presented a working version of this research at the 2025 Midwest Junto for the History of Science.
 
 - I have a paper publishing in the IEEE Annals of the History of Computing (Spring 2025) about the young women who operated the Voder, the electrical speech synthesis machine presented by AT&T/Bell Labs at the 1939 New York World's Fair. I shared part of this research in September 2023 at SIGCIS, then presented an updated version in March 2024 at the Midwest Junto for the History of Science.
 
