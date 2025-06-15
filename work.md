@@ -6,7 +6,7 @@ graduate school research:
 
 - My new project explores efforts to collect vital statistics for the 1890 U.S. Census. I presented a working version of this research at the 2025 Midwest Junto for the History of Science.
 
-- I have a paper publishing in the IEEE Annals of the History of Computing (Spring 2025) about the young women who operated the Voder, the electrical speech synthesis machine presented by AT&T/Bell Labs at the 1939 New York World's Fair. I shared part of this research in September 2023 at SIGCIS, then presented an updated version in March 2024 at the Midwest Junto for the History of Science.
+- I published a paper in the [IEEE Annals of the History of Computing](https://ieeexplore.ieee.org/document/10841374) (Spring 2025) on the young women who operated the Voder, the electrical speech synthesis machine presented by AT&T/Bell Labs at the 1939 New York World's Fair. I shared part of this research in September 2023 at SIGCIS, then presented an updated version in March 2024 at the Midwest Junto for the History of Science.
 
 - I'm working on a paper that historicizes the labor debates surrounding electronic death registration. This project grew out of a workshop hosted by the Epidemy Lab on data and disease in historical prospective. I presented part of my research at ICOHTEC-SHOT in July 2024.
 
