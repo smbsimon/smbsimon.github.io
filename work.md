@@ -6,7 +6,7 @@ graduate school research:
 
 - My new project explores efforts to collect vital statistics for the 1890 U.S. Census. I presented a working version of this research at the 2025 Midwest Junto for the History of Science and will share an updated version at SHOT 2025.
 
-- I'm working on a paper that historicizes the labor debates surrounding electronic death registration. This project grew out of a workshop hosted by the Univeristy of Edinburgh's Epidemy Lab on data and disease in historical prospective. I presented part of my research at ICOHTEC-SHOT in July 2024.
+- I'm working on a paper that historicizes the labor debates surrounding electronic death registration. This project grew out of a workshop on data and disease in historical perspective, hosted by the University of Edinburgh's Epidemy Lab. I presented part of my research at ICOHTEC-SHOT in July 2024.
 
 - At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented a paper on medical scribes and their role in salvaging the utility of electronic health records. I also presented this research in October 2023 at the Leibniz AILab's Trustworthy AI Lab.
 
