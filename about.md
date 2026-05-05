@@ -9,4 +9,4 @@ Prior to graduate school, I spent many years in newsroom engineering and data jo
 
 I have a B.A. in English from Wellesley College (2013), a certificate in full-stack software development from the Turing School of Software and Design (2015), and an M.S. in Technology & Humanities from the Illinois Institute of Technology (2024).
 
-I live in Chicago with my husband, [Mike Tigas](https://mike.tig.as/), and our tuxedo cat, Clooney. My pronouns are she/her.
+I live in Chicago with my husband, [Mike Tigas](https://mike.tig.as/), and our family. My pronouns are she/her.
