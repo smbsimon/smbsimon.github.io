@@ -4,9 +4,9 @@ title: work
 ---
 academic work:
 
-- *Medical History*: [‘Reengineering’ U.S. Death Data Collection: The Technology and Labour Behind Electronic Death Registration](https://www.cambridge.org/core/journals/medical-history/article/reengineering-us-death-data-collection-the-technology-and-labour-behind-electronic-death-registration/141015E4777900B8E00737E352539233)
+- *Medical History*: [‘Reengineering’ U.S. Death Data Collection: The Technology and Labour Behind Electronic Death Registration](https://www.cambridge.org/core/journals/medical-history/article/reengineering-us-death-data-collection-the-technology-and-labour-behind-electronic-death-registration/141015E4777900B8E00737E352539233).
 
-- *IEEE Annals of the History of Computing*: [Operation Voder: AT&T, Bell Labs, and the Labor of Techno-Utopia at the 1939 New York World’s Fair](https://ieeexplore.ieee.org/document/10841374). 
+- *IEEE Annals of the History of Computing*: [Operation Voder: AT&T, Bell Labs, and the Labor of Techno-Utopia at the 1939 New York World’s Fair](https://ieeexplore.ieee.org/document/10841374).
 
 - I've published book reviews in *Technology and Culture* and *H-Sci-Med-Tech* and have presented my research at a variety of history of science and technology conferences.
 
