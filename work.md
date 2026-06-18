@@ -2,15 +2,13 @@
 layout: page
 title: work
 ---
-graduate school research:
+academic work:
 
-- My new project explores efforts to collect vital statistics for the 1890 U.S. Census. I presented a working version of this research at the 2025 Midwest Junto for the History of Science and shared an updated version at SHOT 2025.
+- *Medical History*: [‘Reengineering’ U.S. Death Data Collection: The Technology and Labour Behind Electronic Death Registration](https://www.cambridge.org/core/journals/medical-history/article/reengineering-us-death-data-collection-the-technology-and-labour-behind-electronic-death-registration/141015E4777900B8E00737E352539233)
 
-- I'm working on a paper that historicizes the labor debates surrounding electronic death registration. This project grew out of a workshop on data and disease in historical perspective, hosted by the University of Edinburgh's Epidemy Lab. I presented part of my research at ICOHTEC-SHOT in July 2024.
+- *IEEE Annals of the History of Computing*[Operation Voder: AT&T, Bell Labs, and the Labor of Techno-Utopia at the 1939 New York World’s Fair](https://ieeexplore.ieee.org/document/10841374). 
 
-- At the May 2023 International Conference on Computer Ethics: Philosophical Enquiry, I presented a paper on medical scribes and their role in salvaging the utility of electronic health records. I also presented this research in October 2023 at the Leibniz AILab's Trustworthy AI Lab.
-
-- I published my master's thesis research in the [IEEE Annals of the History of Computing](https://ieeexplore.ieee.org/document/10841374). The article is about the young women who operated the Voder, the electrical speech synthesis machine presented by AT&T/Bell Labs at the 1939 New York World's Fair. 
+- I've published book reviews in *Technology and Culture* and *H-Sci-Med-Tech* and have presented my research at a variety of history of science and technology conferences.
 
 
 a random sampling of journalism & public writing:
