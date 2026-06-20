@@ -4,11 +4,11 @@ title: work
 ---
 academic work:
 
-- *Medical History*: [‘Reengineering’ U.S. Death Data Collection: The Technology and Labour Behind Electronic Death Registration](https://www.cambridge.org/core/journals/medical-history/article/reengineering-us-death-data-collection-the-technology-and-labour-behind-electronic-death-registration/141015E4777900B8E00737E352539233).
+- In 2026, I published [an article](https://www.cambridge.org/core/journals/medical-history/article/reengineering-us-death-data-collection-the-technology-and-labour-behind-electronic-death-registration/141015E4777900B8E00737E352539233) in *Medical History* that historicizes the labor debates surrounding electronic death registration. This project grew out of a workshop on data and disease in historical perspective, hosted by the University of Edinburgh's Epidemy Lab.
 
-- *IEEE Annals of the History of Computing*: [Operation Voder: AT&T, Bell Labs, and the Labor of Techno-Utopia at the 1939 New York World’s Fair](https://ieeexplore.ieee.org/document/10841374).
+- In 2025, I published my master's thesis research in the *IEEE Annals of the History of Computing*. The [article](https://ieeexplore.ieee.org/document/10841374) is about the young women who operated the Voder, the electrical speech synthesis machine presented by AT&T/Bell Labs at the 1939 New York World's Fair. 
 
-- I've published book reviews in *Technology and Culture* and *H-Sci-Med-Tech* and have presented my research at a variety of history of science and technology conferences.
+- I've published book reviews in *Technology and Culture* and *H-Sci-Med-Tech* and have presented my research at a variety of history of science and history of technology conferences.
 
 
 a random sampling of journalism & public writing:
